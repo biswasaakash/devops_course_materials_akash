@@ -1,2 +1,2 @@
+print("print old feature but bohot jyada gold feature")
 
-print("print old feature is not gold feature")
